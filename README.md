@@ -1,6 +1,6 @@
 Hospitality Financial Report 
 
-<a href = 
+<a href = "https://github.com/Piyush-tikiya/Excel-Data-Modelling/blob/main/ALL%20report_merged.pdf"> REPORT VIEW </a>
 
 Developed a dynamic Excel-based financial Bussiness Report tailored for the hospitality industry.
 
